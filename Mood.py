@@ -33,10 +33,10 @@
         "date": "13-06-2025",
         "text": "fine",
         "mood": "Neutral"
-    }
+    },
     { 
         "date": "14-06-2025",
-        "text": "happy"
+        "text": "happy",
         "mood": "exciting"
     }
 ]
