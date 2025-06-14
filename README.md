@@ -22,6 +22,8 @@ Follow my journey into AI, coding, and creativity 🌸
 ### 🧪 How to Run
 
 1. Clone the repository:
-
-2.  2. Open the folder in VS Code  
-3. Run:  
+   `git clone https://github.com/samarjahanahmedburney/MoodAndSentimentTracker.git`
+3.  2. Open the older in VS Code  
+4. Run:
+   `python Mood_Tracking.py`
+ 
